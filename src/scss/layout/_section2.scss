@@ -1,0 +1,22 @@
+.section2 {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
+  align-items: center;
+  grid-gap: 20px;
+  justify-items: center;
+  background-color: #f2f2f2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.title3 {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 18px;
+  line-height: 30px;
+}
