@@ -1,0 +1,25 @@
+.image1 {
+    height: 34px;
+    width: 37px;
+    position: fixed;
+    top:0 ;
+    left:0 ;
+}
+.title1 {
+    text-align: center ;
+    color:#ffffff ;
+    margin: auto;
+}
+.header{
+    background-image: url(../images/cover.jpeg);
+    height: 100vh;
+    }
+.section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+    .title2{
+    text-align: center;
+    color:#ffffff ;
+}
