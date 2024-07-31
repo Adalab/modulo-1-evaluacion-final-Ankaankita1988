@@ -1,12 +1,38 @@
 .text1{
-
-
+     color:orangered;
+     font-family: roboto;
+     font-size: 14px;
+     align-content: flex-start;
+     flex-wrap: wrap;
+     padding-top: 20px;
+     height: 30px;
+     padding-left: 10px;
     }
+
 .title{
     display: flex;
     font-style: border;
     color: black;
+    margin: 10px;
     }
+.text2{
+    color: #4a4a4a;
+    margin: 10px;
+}  
+.button{
+    display: block;
+    width: 100px;
+    background-color: white;
+    color:#f26002;
+    text-decoration: none;
+    border-radius: 90px;
+    text-align: center;
+    border: 2px solid #f26002;
+    padding: 20px;
+    margin-left: 30px;;
+    
+
+}  
     
     
 
