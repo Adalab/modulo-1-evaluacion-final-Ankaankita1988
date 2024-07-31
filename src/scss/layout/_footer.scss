@@ -57,3 +57,20 @@
         margin: auto;
         
     }
+    .list{
+        @media(min-width:768px){}
+        display:flex;
+        flex-direction: row;
+        margin:80px;
+        align-items: center;
+        justify-content: space-between;
+        .list1{
+            order: 2;
+            }
+        .list2{
+            order: 3;
+            }
+            .list3{
+            order: 1;
+            }
+        }
